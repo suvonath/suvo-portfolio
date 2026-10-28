@@ -1,0 +1,103 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3470 >>
+stream
+BT
+/F1 10 Tf
+14 TL
+50 780 Td
+/F2 16 Tf (SUVO DEV NATH) Tj
+/F1 10 Tf T*
+(Web Developer | Sylhet, Bangladesh) Tj T*
+(Email: shubho.debnath.dev@gmail.com | Phone: +880 1736-449874) Tj T*
+(GitHub: github.com/Shubho-Debnath | LinkedIn: linkedin.com/in/shubho-dev) Tj T*
+(--------------------------------------------------------------------------------------------------) Tj T*
+() Tj T*
+/F2 11 Tf T* (PROFESSIONAL SUMMARY) Tj
+/F1 9.5 Tf T*
+(Focused Web Developer experienced in building modern, responsive, and user-friendly web) Tj T*
+(applications. Turning ideas into practical digital experiences through clean code, reusable) Tj T*
+(components, and thoughtful UI design. Frontend expertise with React, Next.js, and Tailwind CSS;) Tj T*
+(backend fundamentals with Node.js, Express.js, MongoDB, and MySQL.) Tj T*
+() Tj T*
+/F2 11 Tf T* (EDUCATION) Tj
+/F1 9.5 Tf T*
+(- Bachelor of Science in Computer Science and Engineering \(2018 - Present, In progress\)) Tj T*
+(  Leading University, Sylhet, Bangladesh) Tj T*
+(- Higher Secondary Certificate \(HSC\) \(2017\) | GPA: 4.00 / 5.00) Tj T*
+(  Shahjalal City College, Sylhet, Bangladesh \(Science\)) Tj T*
+(- Secondary School Certificate \(SSC\) \(2015\) | GPA: 4.39 / 5.00) Tj T*
+(  Rangpani Captain Rashid High School, Jaintapur, Sylhet \(Science\)) Tj T*
+() Tj T*
+/F2 11 Tf T* (TECHNICAL SKILLS) Tj
+/F1 9.5 Tf T*
+(- Frontend: HTML5, CSS3, Tailwind CSS, SCSS, JavaScript \(ES6+\), React.js, Next.js) Tj T*
+(- Backend: Node.js, Express.js) Tj T*
+(- Databases: MongoDB, MySQL) Tj T*
+(- APIs & Testing: REST APIs, Axios, Jest, React Testing Library) Tj T*
+(- Tools & Workflow: Git, GitHub, VS Code, npm, Yarn, Vite, ESLint, Prettier) Tj T*
+(- Additional: Responsive Web Design, Mobile-First Development, PWA Fundamentals) Tj T*
+() Tj T*
+/F2 11 Tf T* (PROJECTS) Tj
+/F1 9.5 Tf T*
+/F2 10 Tf T* (1. HyperCampus - Learning Management System) Tj
+/F1 9.5 Tf T*
+(   Stack: React, Tailwind CSS, JavaScript) Tj T*
+(   - Built a responsive learning platform to browse courses, enroll, and track progress.) Tj T*
+(   - Designed dynamic React components for course creation and progress tracking.) Tj T*
+(   - Source: https://github.com/Shubho-Debnath/Hypercampus-LMS) Tj T*
+() Tj T*
+/F2 10 Tf T* (2. University Project Management System \(Academic Project\)) Tj
+/F1 9.5 Tf T*
+(   Stack: HTML, CSS, Bootstrap, PHP, JavaScript, SQL) Tj T*
+(   - Developed an academic system for managing 3rd & 4th year student projects.) Tj T*
+(   - Implemented registration, supervisor assignment, and milestone status tracking.) Tj T*
+(   - Source: https://github.com/Shubho-Debnath/University-Project-Management-System) Tj T*
+() Tj T*
+/F2 10 Tf T* (3. Service Hiring Web App) Tj
+/F1 9.5 Tf T*
+(   Stack: React, JavaScript, CSS) Tj T*
+(   - Built a responsive web app for booking service professionals \(electricians, mechanics\).) Tj T*
+(   - Designed a modular component interface prioritizing reusability and intuitive search.) Tj T*
+() Tj T*
+/F2 10 Tf T* (4. E-Commerce Website) Tj
+/F1 9.5 Tf T*
+(   Stack: HTML, CSS, JavaScript) Tj T*
+(   - Developed a responsive storefront with dynamic product catalog and live shopping cart.) Tj T*
+(   - Live Demo: https://shubho-debnath.github.io/Ecommerce-Website/) Tj T*
+(   - Source: https://github.com/Shubho-Debnath/Ecommerce-Website) Tj T*
+() Tj T*
+(--------------------------------------------------------------------------------------------------) Tj T*
+(Verified source: Portfolio of Suvo Dev Nath) Tj T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000244 00000 n 
+0000003770 00000 n 
+0000003840 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3920
+%%EOF
