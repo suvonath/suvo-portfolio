@@ -111,7 +111,7 @@ export const Hero: React.FC = () => {
                 {/* Visual Portrait Container */}
                 <div className="relative w-full aspect-[4/4.6] rounded-xl overflow-hidden bg-[#0F172A] flex flex-col items-center justify-center">
                   <Image
-                    src="/images/portrait-placeholder.svg"
+                    src="/images/portrait.jpg"
                     alt="Professional portrait representation of Suvo Dev Nath, Web Developer"
                     width={480}
                     height={540}
