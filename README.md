@@ -11,10 +11,10 @@ Built with **Next.js (App Router)**, **React**, **TypeScript**, and **Tailwind C
 - **Full Name**: Suvo Dev Nath
 - **Designation**: Web Developer
 - **Location**: Sylhet, Bangladesh
-- **Email**: [shubho.debnath.dev@gmail.com](mailto:shubho.debnath.dev@gmail.com)
+- **Email**: [suvodevnath123@gmail.com](mailto:suvodevnath123@gmail.com)
 - **Phone**: [+880 1736-449874](tel:+8801736449874)
 - **LinkedIn**: [https://www.linkedin.com/in/shubho-dev/](https://www.linkedin.com/in/shubho-dev/)
-- **GitHub**: [https://github.com/Shubho-Debnath](https://github.com/Shubho-Debnath)
+- **GitHub**: [https://github.com/suvonath](https://github.com/suvonath)
 - **Education**: B.Sc. in Computer Science and Engineering (In progress), Leading University, Sylhet
 
 ---
@@ -148,7 +148,7 @@ suvo-portfolio/
 
 The portfolio is fully optimized for zero-configuration deployment on **Vercel**:
 
-1. Push this project repository to your GitHub account: `https://github.com/Shubho-Debnath/portfolio`
+1. Push this project repository to your GitHub account: `https://github.com/suvonath/portfolio`
 2. Log in to [Vercel](https://vercel.com) and click **"Add New Project"**.
 3. Import your repository.
 4. Leave build settings as default (`next build`).

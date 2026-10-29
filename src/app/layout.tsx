@@ -37,12 +37,12 @@ export const metadata: Metadata = {
     "Tailwind CSS",
     "JavaScript",
   ],
-  authors: [{ name: "Suvo Dev Nath", url: "https://github.com/Shubho-Debnath" }],
+  authors: [{ name: "Suvo Dev Nath", url: "https://github.com/suvonath" }],
   creator: "Suvo Dev Nath",
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://github.com/Shubho-Debnath",
+    url: "https://github.com/suvonath",
     title: "Suvo Dev Nath — Web Developer Portfolio",
     description:
       "Modern, responsive web applications built with clean code, reusable components, and thoughtful UI design.",

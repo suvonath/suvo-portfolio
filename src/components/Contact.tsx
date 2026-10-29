@@ -197,7 +197,7 @@ export const Contact: React.FC = () => {
                 <div>
                   <span className="text-[11px] text-slate-400 block">GitHub</span>
                   <span className="text-xs font-semibold text-slate-200 group-hover:text-blue-400">
-                    Shubho-Debnath
+                    suvonath
                   </span>
                 </div>
               </a>
@@ -241,7 +241,7 @@ export const Contact: React.FC = () => {
                   <span>Send a Message</span>
                 </h3>
                 <p className="text-xs text-slate-400 mt-1">
-                  Compose a draft below. It will open directly in your mail application with authentic routing to <span className="text-slate-300 font-mono">shubho.debnath.dev@gmail.com</span>.
+                  Compose a draft below. It will open directly in your mail application with authentic routing to <span className="text-slate-300 font-mono">suvodevnath123@gmail.com</span>.
                 </p>
               </div>
 

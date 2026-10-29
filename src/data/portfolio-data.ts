@@ -4,11 +4,11 @@ export const personalInfo: PersonalInfo = {
   name: "Suvo Dev Nath",
   designation: "Web Developer",
   location: "Sylhet, Bangladesh",
-  email: "shubho.debnath.dev@gmail.com",
+  email: "suvodevnath123@gmail.com",
   phone: "+880 1736-449874",
   phoneRaw: "+8801736449874",
   linkedIn: "https://www.linkedin.com/in/shubho-dev/",
-  gitHub: "https://github.com/Shubho-Debnath",
+  gitHub: "https://github.com/suvonath",
   whatsApp: "https://wa.me/8801736449874",
   professionalSummary:
     "I’m a Web Developer focused on building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital experiences through clean code, reusable components, and thoughtful UI design. My experience includes frontend development with React and Next.js, styling with Tailwind CSS, and backend development with Node.js, Express.js, and databases. I’m continuously learning, improving my engineering skills, and exploring better ways to build scalable web applications.",
